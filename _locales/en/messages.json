@@ -1,0 +1,14 @@
+{
+  "extensionName": {
+    "message": "Simple Browser Extension",
+    "description": "Name of the extension."
+  },
+  "extensionDescription": {
+    "message": "Simple Browser Extension",
+    "description": "Description of the extension."
+  },
+  "notificationTitle": {
+    "message": "Click it",
+    "description": "Title of the click notification."
+  }
+}

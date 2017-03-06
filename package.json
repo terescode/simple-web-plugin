@@ -1,0 +1,18 @@
+{
+  "name": "simple-web-plugin",
+  "version": "1.0.0",
+  "description": "Example web extension",
+  "main": "",
+  "scripts": {
+    "web-ext": "./node_modules/web-ext/bin/web-ext",
+    "run": "npm run web-ext -- run",
+    "lint": "npm run web-ext -- lint",
+    "build": "npm run web-ext -- build",
+    "sign": "npm run web-ext -- sign"
+  },
+  "author": "",
+  "dependencies": {},
+  "devDependencies": {
+    "web-ext": "^1.7.0"
+  }
+}
